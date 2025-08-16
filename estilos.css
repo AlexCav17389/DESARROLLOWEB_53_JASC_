@@ -1,0 +1,47 @@
+.categoria {
+    color: red;  
+    font-weight: bold;
+}
+
+.negritas {
+    font-weight: bold; 
+    border: 2px solid black;
+    padding: 5px;
+    background-color: rgba(255, 255, 0, 0.377);
+}
+
+.linea-negra {
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+
+body {
+    text-align: center; 
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    border: 18px solid rgb(146, 146, 146);
+}
+
+.videojuegos {
+    background-color: rgb(250, 195, 131);
+}
+
+.musica {
+    background-color: rgb(165, 255, 233);
+}
+
+.peliculas {
+    background-color: rgb(165, 142, 250);
+}
+
+.deportes {
+    background-color: rgb(255, 203, 203);
+}
+
+.titulo {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0;
+    color: rgb(0, 255, 21);
+}
